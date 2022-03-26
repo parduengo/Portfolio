@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Umbrella Research by Petarducu</title>
-    <link>http://umbrella.org/techs/</link>
+    <link>https://parduengo.github.io/Portfolio/techs/</link>
     <description>Recent content in Techs on Umbrella Research by Petarducu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Petarducu</copyright><atom:link href="http://umbrella.org/techs/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Petarducu</copyright><atom:link href="https://parduengo.github.io/Portfolio/techs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

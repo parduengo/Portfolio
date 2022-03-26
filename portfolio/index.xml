@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PORTFOLIO on Umbrella Research by Petarducu</title>
+    <link>https://parduengo.github.io/Portfolio/portfolio/</link>
+    <description>Recent content in PORTFOLIO on Umbrella Research by Petarducu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Petarducu</copyright><atom:link href="https://parduengo.github.io/Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modern Company</title>
+      <link>https://parduengo.github.io/Portfolio/portfolio/moderncompany/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parduengo.github.io/Portfolio/portfolio/moderncompany/</guid>
+      <description>Changing Minds and guiding new business. Playing on the champions league, Join us!!!!</description>
+    </item>
+    
+  </channel>
+</rss>
