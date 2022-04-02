@@ -6,48 +6,16 @@
     <description>Recent content in PetArduCu on Umbrella Research by Petarducu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Petarducu</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://parduengo.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Petarducu</copyright><atom:link href="https://parduengo.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting started</title>
-      <link>https://parduengo.github.io/Portfolio/post/getting-started/</link>
-      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
-      
-      <guid>https://parduengo.github.io/Portfolio/post/getting-started/</guid>
-      <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portfolio Definition</title>
-      <link>https://parduengo.github.io/Portfolio/post/portfolio-definition/</link>
-      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
-      
-      <guid>https://parduengo.github.io/Portfolio/post/portfolio-definition/</guid>
-      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://parduengo.github.io/Portfolio/post/images/portfolio-example.png&#34;
-         alt=&#34;Example of Portfolio page&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Example of Portfolio page&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shortcodes</title>
-      <link>https://parduengo.github.io/Portfolio/post/shortcodes/</link>
-      <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
-      
-      <guid>https://parduengo.github.io/Portfolio/post/shortcodes/</guid>
-      <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Open Graph image</title>
+      <title>1st Post</title>
       <link>https://parduengo.github.io/Portfolio/post/define-specific-og-image/</link>
-      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parduengo.github.io/Portfolio/post/define-specific-og-image/</guid>
-      <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
-For example, see content/_index.md page:</description>
+      <description>This is my new post to start with new contents about:
+- Business, Technology, and PeopleI&amp;rsquo;ll create new content and new ideas.
+1. [Empathize] 2. [Define] 3. [Ideate] 4. [Prototype] 5. [Test] 6. [Play the game] </description>
     </item>
     
     <item>
@@ -56,8 +24,7 @@ For example, see content/_index.md page:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parduengo.github.io/Portfolio/portfolio/modern_bu/</guid>
-      <description>Mod BU We work develop this business concept like:
-Core deparment concerns.</description>
+      <description>Mod BU We work develop this business concept for core corncerns.</description>
     </item>
     
     <item>
@@ -86,7 +53,7 @@ We work develop this business concept like IT deparment concerns.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parduengo.github.io/Portfolio/umbrellaresearch/</guid>
-      <description>All these jobs are involved with experiences and hard work. Focus on change the world, for a good present and a better future. this content has three cornerstones:
+      <description>All this work are enveloped of experiences and passion. Focus on change the world, for a good present and a better future. this content has three cornerstones:
  People Business Technology  This Concept is known as &amp;ldquo;Flux capacitor&amp;rdquo;, in spanish translation is &amp;ldquo;Condesador de fluzo&amp;rdquo;. It&amp;rsquo;s a reference to old school that we dream with the future, 35 years later I resign my life ;).
   People First, you must engage with all people around you, Don&amp;rsquo;t matter whether it is a stakeholder, you need know all people around you to learn how is the context and how you can improve their life.</description>
     </item>
