@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Umbrella Research on Umbrella Research by Petarducu</title>
+    <title>PetArduCu on Umbrella Research by Petarducu</title>
     <link>https://parduengo.github.io/Portfolio/</link>
-    <description>Recent content in Umbrella Research on Umbrella Research by Petarducu</description>
+    <description>Recent content in PetArduCu on Umbrella Research by Petarducu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Petarducu</copyright>
@@ -51,12 +51,44 @@ For example, see content/_index.md page:</description>
     </item>
     
     <item>
+      <title>Modern Business</title>
+      <link>https://parduengo.github.io/Portfolio/portfolio/modern_bu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parduengo.github.io/Portfolio/portfolio/modern_bu/</guid>
+      <description>Mod BU We work develop this business concept like:
+Core deparment concerns.</description>
+    </item>
+    
+    <item>
       <title>Modern Company</title>
       <link>https://parduengo.github.io/Portfolio/portfolio/moderncompany/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parduengo.github.io/Portfolio/portfolio/moderncompany/</guid>
-      <description>Changing Minds and guiding new business. Playing on the champions league, Join us!!!!</description>
+      <description>Changing Minds and guiding new business. Playing on the champions league, Join us!!!!
+We work develop this business concept like Modern IT, or Modern Business to lift off your IT department, toward new business.</description>
+    </item>
+    
+    <item>
+      <title>Modern IT</title>
+      <link>https://parduengo.github.io/Portfolio/portfolio/modern_it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parduengo.github.io/Portfolio/portfolio/modern_it/</guid>
+      <description>Changing Minds and guiding new business. Playing on the champions league, Join us!!!!
+We work develop this business concept like IT deparment concerns.</description>
+    </item>
+    
+    <item>
+      <title>Umbrella Research</title>
+      <link>https://parduengo.github.io/Portfolio/umbrellaresearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parduengo.github.io/Portfolio/umbrellaresearch/</guid>
+      <description>All these jobs are involved with experiences and hard work. Focus on change the world, for a good present and a better future. this content has three cornerstones:
+ People Business Technology  This Concept is known as &amp;ldquo;Flux capacitor&amp;rdquo;, in spanish translation is &amp;ldquo;Condesador de fluzo&amp;rdquo;. It&amp;rsquo;s a reference to old school that we dream with the future, 35 years later I resign my life ;).
+  People First, you must engage with all people around you, Don&amp;rsquo;t matter whether it is a stakeholder, you need know all people around you to learn how is the context and how you can improve their life.</description>
     </item>
     
   </channel>
